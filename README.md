@@ -40,3 +40,4 @@
 
 [구글](https://google.com "검색 사이트")
 
+![아기 고양이](./images/cat.jpg)
